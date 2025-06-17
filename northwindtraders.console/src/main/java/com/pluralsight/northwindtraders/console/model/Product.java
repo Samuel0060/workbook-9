@@ -13,6 +13,14 @@ public class Product {
         this.price = price;
     }
 
+    public int getProductID() {
+        return productID;
+    }
+
+    public void setProductID(int productID) {
+        this.productID = productID;
+    }
+
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("Product{");
