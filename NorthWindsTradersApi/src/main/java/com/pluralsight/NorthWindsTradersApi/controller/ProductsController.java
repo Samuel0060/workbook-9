@@ -24,7 +24,7 @@ public class ProductsController {
 
 //    @RequestMapping(path="/product", method= RequestMethod.GET)
 
-    public List<Product> productSearch() {
-        List<Product> products = new ArrayList<>();
-    }
+//    public List<Product> productSearch() {
+//        List<Product> products = new ArrayList<>();
+//    }
 }

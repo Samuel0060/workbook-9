@@ -12,7 +12,7 @@ public class CategoryController {
     public List<Category> getAllCategories() {
         List<Category> categories = new ArrayList<>();
 
-            categories.add(new Category(1, "Drinka"));
+            categories.add(new Category(1, "Drinks"));
             categories.add(new Category(2, "Sweets"));
             categories.add(new Category(3, "Deli"));
 
